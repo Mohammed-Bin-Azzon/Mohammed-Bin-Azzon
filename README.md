@@ -6,11 +6,11 @@ Computer Science graduate passionate about backend development and building scal
 
 ## Featured Projects
 
-### ⚽ Arab Football API
+### ⚽ Arab Football Fans Platform
 
-RESTful API for a social platform designed for Arab football fans.
+Graduation project providing a complete social platform for Arab football fans.
 
-🔗 [Repository](https://github.com/Mohammed-Bin-Azzon/arab-football-api)
+🔗 🔗 [Repository](https://github.com/Mohammed-Bin-Azzon/Arab-Football-Fans-Platform)
 
 ---
 
