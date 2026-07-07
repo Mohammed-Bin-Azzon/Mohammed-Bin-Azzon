@@ -1,16 +1,33 @@
-## Hi there 👋
+# Mohammed Bin Azzon
 
-<!--
-**Mohammed-Bin-Azzon/Mohammed-Bin-Azzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | ASP.NET Core
 
-Here are some ideas to get you started:
+Computer Science graduate passionate about backend development and building scalable software solutions using ASP.NET Core, C#, and SQL Server.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- ASP.NET Core
+- C#
+- Entity Framework Core
+- SQL Server
+- RESTful APIs
+- Git & GitHub
+
+## Featured Projects
+
+### ⚽ Arab Football API
+RESTful API for a social media platform for Arab football fans built with ASP.NET Core and SQL Server.
+
+🔗 https://github.com/Mohammed-Bin-Azzon/arab-football-api
+
+---
+
+### 🏦 Bank Management System
+Console-based Bank Management System built with C++ using Object-Oriented Programming.
+
+🔗 https://github.com/Mohammed-Bin-Azzon/Bank-Management-System
+
+## Connect with Me
+
+- LinkedIn: https://linkedin.com/in/mohammed-bin-azzon
+- Email: mo.binazzon@gmail.com
