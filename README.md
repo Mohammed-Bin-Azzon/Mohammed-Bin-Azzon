@@ -4,6 +4,18 @@ Backend Developer | ASP.NET Core
 
 Computer Science graduate passionate about backend development and building scalable software solutions using ASP.NET Core, C#, and SQL Server.
 
+## Featured Projects
+
+### ⚽ Arab Football API
+RESTful API for a social media platform for Arab football fans.
+
+🔗 https://github.com/Mohammed-Bin-Azzon/arab-football-api
+
+### 🏦 Bank Management System
+Console-based bank management system built with C++ using Object-Oriented Programming.
+
+🔗 https://github.com/Mohammed-Bin-Azzon/Bank-Management-System
+
 ## Tech Stack
 
 - ASP.NET Core
@@ -12,20 +24,6 @@ Computer Science graduate passionate about backend development and building scal
 - SQL Server
 - RESTful APIs
 - Git & GitHub
-
-## Featured Projects
-
-### ⚽ Arab Football API
-RESTful API for a social media platform for Arab football fans built with ASP.NET Core and SQL Server.
-
-🔗 https://github.com/Mohammed-Bin-Azzon/arab-football-api
-
----
-
-### 🏦 Bank Management System
-Console-based Bank Management System built with C++ using Object-Oriented Programming.
-
-🔗 https://github.com/Mohammed-Bin-Azzon/Bank-Management-System
 
 ## Connect with Me
 
