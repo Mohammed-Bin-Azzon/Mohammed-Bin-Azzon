@@ -7,14 +7,18 @@ Computer Science graduate passionate about backend development and building scal
 ## Featured Projects
 
 ### ⚽ Arab Football API
-RESTful API for a social media platform for Arab football fans.
 
-🔗 https://github.com/Mohammed-Bin-Azzon/arab-football-api
+RESTful API for a social platform designed for Arab football fans.
+
+🔗 [Repository](https://github.com/Mohammed-Bin-Azzon/arab-football-api)
+
+---
 
 ### 🏦 Bank Management System
-Console-based bank management system built with C++ using Object-Oriented Programming.
 
-🔗 https://github.com/Mohammed-Bin-Azzon/Bank-Management-System
+Console-based bank management system built with C++ following Object-Oriented Programming principles.
+
+🔗 [Repository](https://github.com/Mohammed-Bin-Azzon/Bank-Management-System)
 
 ## Tech Stack
 
@@ -23,7 +27,8 @@ Console-based bank management system built with C++ using Object-Oriented Progra
 - Entity Framework Core
 - SQL Server
 - RESTful APIs
-- Git & GitHub
+- Git
+- GitHub
 
 ## Connect with Me
 
